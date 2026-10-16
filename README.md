@@ -1,6 +1,13 @@
-# 720p Studio — Browser Edition v2.0
+# 720p Studio — Editorial Edition v2.2
 
 A dependency-free, static browser application for batch-converting browser-decodable videos to MP4 with a maximum output canvas of 1280×720 (or 720×1280 in portrait orientation). The browser performs processing locally; the application does not upload video data to any server.
+
+## Editorial Edition v2.2
+
+- Warm-paper editorial interface with serif display typography, restrained olive and terracotta palette, responsive desktop/mobile layout.
+- Reorganized workspace, settings, system capabilities and processing log to prevent large empty regions on wide screens.
+- Live three-stage workflow indicator, informative progress animation, and drag/drop/button/list feedback, with reduced-motion support.
+- Browser encoding functionality, local-only processing and codec limitations are retained.
 
 ## Using the app
 
