@@ -1,0 +1,13 @@
+# Exclude original and converted videos from the public repository
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+*.webm
+*.3gp
+*.ts
+*.m4v
+*.zip
+.DS_Store
+Thumbs.db
